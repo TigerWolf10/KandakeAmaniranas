@@ -1,0 +1,33 @@
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: #1f0ea0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+h2, h3 {
+    color: #212a4f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+p {
+    color: rgb(28, 26s, 26);
+    font-size: 18px;
+
+}
+h5 {
+    color: rgb(28, 26, 26);
+}
